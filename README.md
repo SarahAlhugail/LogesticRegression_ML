@@ -4,7 +4,8 @@
 # Introduction:
 In this project we will explore Logistic Regression type of model and learn more about the subject on these following features:
 
-**Customer ID:** The Id of the customer
+**Customer ID:** The Id of the customer.
+
 **Gender:** Is the customer male or female
 **SeniorCitizen:**Whether the customer is a senior citizen or not
 **Partner:**Whether the customer has a partner or not
