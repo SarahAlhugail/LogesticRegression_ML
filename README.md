@@ -45,6 +45,8 @@ In this project we will explore Logistic Regression type of model and learn more
 **TotalCharges:** The total amount charged to the customer.
 
 **Churn:** Whether the customer churned or not (Target Column).
+![features](features.jpg)
+
 
 
 <a id='Results'></a>
