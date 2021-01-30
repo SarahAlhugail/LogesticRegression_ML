@@ -53,7 +53,7 @@ After testing the model we founds this Accuracy:
 
 > The best Score is **80.57%**
 
-![Confugion Matrix](Yellow_taxi.jpg)
+![Confugion Matrix](CM.jpg)
 
 <a id='Group Members'></a>
 - [Bedoor Alharbi](https://github.com/ibedoor)
