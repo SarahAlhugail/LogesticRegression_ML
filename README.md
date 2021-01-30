@@ -1,4 +1,4 @@
-# Predict customer retention ML
+## Predict customer retention ML
 
 <a id='Introduction'></a>
 # Introduction:
@@ -48,7 +48,7 @@ In this project we will explore Logistic Regression type of model and learn more
 
 
 <a id='Results'></a>
-# Results:
+## Results:
 After testing the model we founds this Accuracy:
 
 > The best Score is **80.57%**
@@ -56,6 +56,7 @@ After testing the model we founds this Accuracy:
 ![Confugion Matrix](CM.jpg)
 
 <a id='Group Members'></a>
+## Group Members:
 - [Bedoor Alharbi](https://github.com/ibedoor)
 - [Sarah Alhugail](https://github.com/SarahAlhugail)
 - [Eatidal Almutairi](https://github.com/eatidal)
