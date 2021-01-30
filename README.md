@@ -1,7 +1,7 @@
-## Predict customer retention ML
+# Predict customer retention ML
 
 <a id='Introduction'></a>
-# Introduction:
+## Introduction:
 In this project we will explore Logistic Regression type of model and learn more about the subject on these following features:
 
 **Customer ID:** The Id of the customer.
